@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: moccasin;
+    color: saddlebrown;
+    margin: 0;
+    padding: 0;
+}
+dl {
+    margin: 1em 2em;
+}
+dt {
+    font-weight: bold;
+    align-self: self-end;
+}
+dd {
+    margin: .2em 0 .5em 1em;
+    padding: 0;
+}
+header {
+    background: #333;
+    color: blanchedalmond;
+    padding: .2em;
+    box-shadow: inset 0px -5px 1em 0px #000;
+    z-index: 5;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    font-size: 1.2em;
+    font-weight: normal;
+}
+footer {
+    font-size: 2vmin;
+    color: darkslategray;
+    font-size: .9em;
+    text-align: center;
+}
+footer a {
+    color:#333;
+}
+.all {
+    margin: 1em 0;
+    color: #333;
+}

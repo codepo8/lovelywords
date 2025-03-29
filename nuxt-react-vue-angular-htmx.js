@@ -21,10 +21,15 @@ if (window.location.hash) {
     if (dts[num]) {
         show(num)
     }
+    if (num === 'all') {
+        document.querySelector('link').href ='bootstrapquery.css';
+        document.querySelector('button').remove();
+        document.querySelector('a.all').remove();
+    }
 } else {
     show();
 }
-document.querySelector('button').addEventListener('click', ev => {
+document.querySelector('button')?.addEventListener('click', ev => {
     show();
     ev.preventDefault();
 })
