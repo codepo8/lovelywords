@@ -85,6 +85,7 @@ h1 {
     font-weight: normal;
 }
 footer {
+    z-index:4;
     text-align: center;
     font-size: 2vmin;
     color: darkslategray;
