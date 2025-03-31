@@ -6,7 +6,8 @@ body {
     padding: 0;
 }
 dl {
-    margin: 1em 2em;
+    margin: 1em auto;
+    max-width: 40em;
 }
 dt {
     font-weight: bold;
