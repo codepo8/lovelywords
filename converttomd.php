@@ -4,8 +4,9 @@
     preg_match_all("/<dd>([^<]+)<\/dd>/",$html,$explanations);
     $out = array();
     foreach($words[1] as $k=>$w){
-        echo $w.' - '.$explanations[1][$k]."\n";
+        array_push($out, $w.' - '.$explanations[1][$k]);
     }
-
-
+    sort($out);
+    echo join("\n", $out);
+    file_put_contents('words.md', join("\n", $out));
 ?> 
