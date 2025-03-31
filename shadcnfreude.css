@@ -20,6 +20,7 @@ dl {
     text-align: center;
 }
 dt {
+    max-width: 40em;
    font-size: 10vmin;
    position: absolute;
    top: -100vmin;
@@ -41,12 +42,12 @@ dt::after {
     content: '〞';
 }
 dd {
+    max-width: 40em;
     position: absolute;
     top: -100vmin;
     font-size: 3vmin;
     margin: 0;
     padding: 0;
-    opacity: 0;
 }
 button {
     font-family: inherit;
