@@ -23,19 +23,15 @@ dt {
    font-size: 10vmin;
    position: absolute;
    top: -100vmin;
-   opacity: 0;
-
 }
 dt.current {
     position: relative;
     top: 0;
-    opacity: 1;
     transition: 400ms;
 }
 dt.current + dd {
     position: relative;
     top: 0;
-    opacity: 1;
     transition: 400ms;
 }
 dt::before {

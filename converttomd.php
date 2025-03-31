@@ -9,4 +9,5 @@
     sort($out);
     echo join("\n", $out);
     file_put_contents('words.md', join("\n", $out));
+
 ?> 
