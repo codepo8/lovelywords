@@ -35,11 +35,14 @@ footer {
     color: darkslategray;
     font-size: .9em;
     text-align: center;
+    border-top: 1px solid #333;
 }
 footer a {
     color:#333;
 }
 .all {
+    display: block;
     margin: 1em 0;
     color: #333;
+    text-align: center;
 }
