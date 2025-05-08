@@ -356,4 +356,3 @@ Zany - ludicrous or outlandish.
 Zenith - the highest point.
 Zoanthropy - delusion of being an animal.
 Zonked - exhausted or extremely tired.
-Faraged - acted liked a total bellend 
