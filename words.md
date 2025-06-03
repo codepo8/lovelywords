@@ -187,6 +187,7 @@ Languor - feeling of sluggishness or listlessness.
 Lassitude - weariness, exhaustion.
 Latent - present and capable of emerging or developing but not now visible, obvious or active. In other words -- there, but not there.
 Lateritious - brick-red in colour.
+Latibulate - to hide in a corner in an attempt to escape reality.
 Leisure - time free from obligations or duty.
 Lilt - rhythmic cadence.
 Lissome - slim, graceful, flexible, supple.
